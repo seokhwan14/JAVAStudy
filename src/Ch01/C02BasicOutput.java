@@ -3,7 +3,7 @@ package Ch01;
 public class C02BasicOutput {
 	public static void main(String[] args) {
 		
-		https://github.com/jungwoogyun/JAVA20221228.git
+		// https://github.com/jungwoogyun/JAVA20221228.git
 		
 		//System : OS(운영체제)관련 자원들을 저장하는 단위
 		//.		 : -- 내부 ( ASDF. : ASDF라는 클래스 내부의 메소드를 차용시 )
