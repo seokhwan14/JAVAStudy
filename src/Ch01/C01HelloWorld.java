@@ -2,6 +2,7 @@ package Ch01;	// 패키지명
 
 /*
  * 클래스명 - 객체지향 문법 적용단위 
+ * seokhwan14 <xcapmaxx@hanmail.net>
  */
 public class C01HelloWorld {		
 	
