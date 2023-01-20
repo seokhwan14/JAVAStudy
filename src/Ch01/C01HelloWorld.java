@@ -3,7 +3,7 @@ package Ch01;	// 패키지명
 /*
  * 클래스명 - 객체지향 문법 적용단위 
  * seokhwan14 <xcapmaxx@hanmail.net>
- * token : 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
+ * token : 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
  */
 public class C01HelloWorld {		
 	
